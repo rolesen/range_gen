@@ -1,7 +1,7 @@
 # range_gen
 simple range generator library (somewhat like a python range and generator in one utility) that also can help avoid raw looping.
 
-this is also similiar to boost::irange but with a possible extra index or custom generator type
+this is also similiar to boost::irange but with a possible extra index or custom/user types
 
 generator object is optional if you just need to loop some indexes (ala. boost::irange but can use custom index type)
 
