@@ -3,7 +3,7 @@ simple range generator library (somewhat like a python range and generator in on
 
 this is also similiar to boost::irange but with a possible extra index or custom generator type
 
-generator object is optional if you just need to loop some indexes (ala. boost::irange)
+generator object is optional if you just need to loop some indexes (ala. boost::irange but can use custom index type)
 
 you can write a custom generator by supplying a type with operator++
 
